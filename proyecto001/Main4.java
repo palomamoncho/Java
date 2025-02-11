@@ -3,6 +3,6 @@ public class Main4 {
         int x = 10;
         int y = 25;
         int z= x + y; // Esta es la suma
-        System.out.println("Sum of x + y = " + z);
+        System.out.printLn("Sum of x + y = " + z);
     } 
 }
