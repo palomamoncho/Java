@@ -14,6 +14,7 @@ public class Scanner {
         System.out.println("Nombre: " + nombre);
         System.out.println("Edad: " + edad + "años");
         System.out.println("Altura: " + altura + "metros");
+        Syste.out.println("Ciudad: " + ciudad);
         scanner.close();
         }
 }
