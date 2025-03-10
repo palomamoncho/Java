@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class scannermiodia {
+public class ScannerMioDia{
 public static void main(String[] args) {
 Scanner scanner = new Scanner(System.in); // Supongamos que 3 representa el miércoles
 System.out.print("introduce un dia de la semana:");
