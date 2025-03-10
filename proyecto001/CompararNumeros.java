@@ -1,4 +1,4 @@
-public class prueba {
+public class CompararNumeros {
     public static boolean prueba(int a, int b) {
         return a > b;
     } 
