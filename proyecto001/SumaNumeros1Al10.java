@@ -1,4 +1,4 @@
-public class for1 {
+public class Sumanumeros1Al10 {
     public static void main(String[] args) {
         System.out.println("In ejemplo 2: Suma de números del 1 al 10");
         int suma = 0;
