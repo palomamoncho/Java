@@ -6,7 +6,7 @@ class Persona {
         System.out.println("Tú nombre es " + nombre + " y tu edad es:" + edad);
     }
 }
-public class persona {
+public class ClasePersona {
     public static void main(String[] args) {
         Persona persona = new Persona();
         System.out.println(Persona.nombrePersona);

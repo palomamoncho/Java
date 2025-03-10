@@ -6,7 +6,7 @@ class Animal {
     }
 }
 
-public class EjemploAnimal {
+public class ClaseAnimal {
     public static void main(String[] args) {
         Animal animal = new Animal(); // Crear un objeto de tipo Animal
         animal.emitirSonido(); // Llamar al método emitirSonido
