@@ -1,4 +1,4 @@
-public class case {
+public class DiaDeLaSemana {
 public static void main(String[] args) {
 int dia = 3; // Supongamos que 3 representa el miércoles
 switch (dia) {
