@@ -1,4 +1,4 @@
-public class case {
+public class MostrarDiaSemana {
     public static void main(String[] args) {
         int dia = 3;
         switch (dia) {

@@ -1,4 +1,4 @@
-public class calculadora {
+public class OperacionesMatematicas {
     public int sumar(int a, int b) {
         return a + b;
     }

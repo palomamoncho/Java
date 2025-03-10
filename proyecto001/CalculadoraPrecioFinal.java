@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculadoraPrecio {
+public class CalculadoraPrecioFinal {
 
     static final double IVA = 0.21;
 
