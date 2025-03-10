@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class while1 {
+public class BucleWhileUsuario {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean continuar = true;
