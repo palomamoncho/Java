@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class scanner1 {
+public class CondicionalesScanner {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Introduce tu edad: ");
