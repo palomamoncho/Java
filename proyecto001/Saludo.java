@@ -1,4 +1,4 @@
-public class saludo {
+public class Saludo {
     public static void saludar() {
         System.out.println("¡Hola, bienvenido a Java!");
     }
