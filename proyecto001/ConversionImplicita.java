@@ -1,4 +1,4 @@
-public class Main6 {
+public class ConversionImplicita {
     public static void main(String[] args) {
         int numeroEntero = 100;
         double numeroDecimal = numeroEntero; //De int a double (automático)

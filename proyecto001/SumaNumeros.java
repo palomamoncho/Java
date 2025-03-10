@@ -1,8 +1,8 @@
-public class Main4 {
+public class SumaNumeros {
     public static void main(String[] args) {
         int x = 10;
         int y = 25;
         int z= x + y; // Esta es la suma
-        System.out.printLn("Sum of x + y = " + z);
+        System.out.println("Sum of x + y = " + z);
     } 
 }

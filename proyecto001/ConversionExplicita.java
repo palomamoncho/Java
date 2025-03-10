@@ -1,4 +1,4 @@
-public class Main7 {
+public class ConversionExplicita {
     public static void main(String[] args) {
         double valorDouble = 9.87;
         int valorInt = (int) valorDouble;

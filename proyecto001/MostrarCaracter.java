@@ -1,6 +1,6 @@
-public class Main3 {
+public class MostrarCaracter {
     public static void main(Strin[] args) {
         char a = 'ñ';
-        susyem.out.printLn(a);
+        susyem.out.println(a);
     }
 }
