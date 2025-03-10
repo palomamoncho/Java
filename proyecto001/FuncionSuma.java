@@ -1,4 +1,4 @@
-public class ejemplofunciones {
+public class FuncionSuma {
     public static int sumar(int a, int b) {
         return a + b;
     }
