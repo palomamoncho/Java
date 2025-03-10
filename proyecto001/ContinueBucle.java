@@ -1,4 +1,4 @@
-public class usodebreak2 {
+public class ContinueBucle {
     public static void main(String[] args) {
         int contador = 1;
         do {
