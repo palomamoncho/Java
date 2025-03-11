@@ -1,4 +1,4 @@
-# forem_curso
+# forem_curso --> Java
 # 👋 ¡Hola! Soy Paloma  
 
 💻 Aprendiendo programación | ☕ Java en proceso  
